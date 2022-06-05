@@ -1,4 +1,5 @@
 # Dependencies used in creation of this project:
+- GoormIDE used for development
 - MySQLjs: A node.js driver for MySQL. [Documentation](https://github.com/mysqljs/mysql)
 - Fakerjs: Used for generating email data. [Documentation](https://fakerjs.dev)
 - EXPRESS: Framework used to create web app. [Documentation](https://expressjs.com)
