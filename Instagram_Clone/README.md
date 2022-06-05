@@ -1,4 +1,4 @@
-#Contents:
-- Construction of relational tables
-- Queries yielding analytics about database
+# Contents:
+- Construction of relational tables & data insertion
+- Queries yielding user analytics
 - Validation and logging database triggers
