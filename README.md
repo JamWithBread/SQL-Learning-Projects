@@ -1,2 +1,4 @@
 # SQL-Learning-Projects
-Includes Instagram database clone with useful queries and a node.js email registration web app interfacing with SQL database
+Includes 
+- Construction of Instagram database clone showcasing useful queries & database triggers 
+- A node.js email registration web app interfacing with SQL database
